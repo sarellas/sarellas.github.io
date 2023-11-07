@@ -5,6 +5,10 @@ Doutoranda em Economia pela USP. Possui mestrado em Economia Aplicada pela UFRGS
 - Mestrado Economia Aplicada, UFRGS, 2020
 - Graduação Administração, UnB, 2016
 
+### Ferramentas
+- Análise de dados: R, Python, Stata, SQL, Excel.
+- Certificações: Séries Temporais e Modelos de Previsão (Udemy), Python para Análise de Dados (FEA.Dev)
+
 ### Experiência 
 - Assistente de pesquisa Laboratório de Setor Público (LabPub-USP), 2022
 - Assistente de pesquisa freelancer (Fundação Natura), 2022
@@ -16,10 +20,6 @@ Doutoranda em Economia pela USP. Possui mestrado em Economia Aplicada pela UFRGS
 A game-theoretical model of domestic war on drugs: the case of Brazilian favelas. Em breve na revista Economia Aplicada (com Marcelo Griebeler).
 
 [Effects of school day time on homicides: The case of the full-day high school program in Pernambuco](https://vox.lacea.org/?q=abstract/effects_school_homicides) (com Leonardo Rosa e Raphael Bruce)
-
-### Ferramentas
-- Análise de dados: R, Python, Stata, SQL, Excel.
-- Bases de dados: DATASUS, PnadC, BEA-USA, Censo e Censo Escolar.
 
 ### Mídia
 - Participação em lives: [mulheres na política](https://www.instagram.com/tv/CWBQhzngZid/?igshid=NTdlMDg3MTY=), [liberdade econômica da mulher](https://www.instagram.com/tv/Ca8YvEnAWN3/?igshid=NTdlMDg3MTY=)
