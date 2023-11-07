@@ -8,3 +8,7 @@ social-network-links:
   email: "sarellas@usp.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   linkedin: [/natalia-sarellas]{https://www.linkedin.com/in/natalia-sarellas/}
+
+share-links-active:
+  linkedin: true
+
