@@ -22,5 +22,7 @@ Bases de dados: DATASUS, PnadC, BEA-USA, Censo e Censo Escolar.
 ### Mídia
 
 Participação em lives: [mulheres na política](https://www.instagram.com/tv/CWBQhzngZid/?igshid=NTdlMDg3MTY=), [liberdade econômica da mulher](https://www.instagram.com/tv/Ca8YvEnAWN3/?igshid=NTdlMDg3MTY=)
+
 Posts no Instagram: [pobreza menstrual](https://www.instagram.com/p/CXMK4LjrPiO/?igshid=NTdlMDg3MTY=)
+
 Textos para blogs: [um panorama da educação superior no Brasil](https://economiadeservicos.com/tag/qualificacao/)
