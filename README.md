@@ -17,6 +17,9 @@ Doutoranda em Economia pela USP. Possui mestrado em Economia Aplicada pela UFRGS
 - Monitora de Álgebra Linear (grad - USP), 2022
 - Monitora de Micro III e IV (pós - USP), 2021
 
+### Projetos
+- Previsão de variáveis macroeconômicas usando R 
+
 ### Working papers
 
 A game-theoretical model of domestic war on drugs: the case of Brazilian favelas. Em breve na revista Economia Aplicada (com Marcelo Griebeler).
