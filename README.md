@@ -26,7 +26,7 @@ Aqui reuno alguns projetos desenvolvidos no decorrer da minha carreira, assim co
 - Monitora de Micro III e IV (pós - USP), 2021
 
 ### Posts informativos
-- [Pacotes do R para baixar dados econômicos brasileiros](docs/dadosBR.md)
+- [Pacotes do R para baixar dados econômicos brasileiros](/dadosBR.md)
 
 ### Working papers
 
