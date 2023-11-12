@@ -5,7 +5,7 @@ title: Página Inicial
 
 # Bem-vindo à Página Inicial
 
+- [Sobre](sobre.html)
 - [Página 1](postsinformativos.html)
-- [Página 2](pagina2.html)
 
 Outro conteúdo...
