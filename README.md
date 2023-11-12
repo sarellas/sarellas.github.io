@@ -5,7 +5,7 @@ Doutoranda em Economia pela USP. Possui mestrado em Economia Aplicada pela UFRGS
 
 No decorrer dos trabalhos de pesquisa desenvolvidos, aprendeu o uso de técnicas econométricas e de modelagem econômica. Começou desenvolvendo o uso de ferramentas de análise de dados para coleta de dados econômicos públicos e restritos, ferramentas de visualização dos dados através de gráficos e mapas, análises estatísticas e, finalmente, modelos econométricos de fronteira.
 
-contato: natalia.sarellas@gmail.com
+contato: nataliasarellas@gmail.com
 
 
 Mais informações: [LinkedIn](https://www.linkedin.com/in/natalia-sarellas/) [CV](https://drive.google.com/file/d/1vo7-AF2dmISnHktxJcPXE4vrUjGc6oZf/view?usp=sharing) [CV (english)](https://drive.google.com/file/d/19rJas0wwVDQadxpQlqE5j4brYwTn22fX/view?usp=sharing)
