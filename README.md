@@ -2,9 +2,8 @@ Aqui reuno alguns projetos desenvolvidos no decorrer da minha carreira, assim co
 
 ### Índice 
 * [Ferramentas](#ferramentas)
-* [Experiência](#experiência)
-* [Formação](#Formação)
-* [Projetos](#projetos)
+* [Principais Experiências](#principais-experiencias)
+* [Formação](#Formacao)
 * [Mídia](#midia)
 * [Working Papers](#working-papers)
 
