@@ -14,5 +14,6 @@ email: "sarellas@usp.br"
 header_pages:
   - about.md
   - portfolio.md
+  - Posts.md
 
 show_excerpts: true
