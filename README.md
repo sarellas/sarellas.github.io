@@ -12,7 +12,7 @@ Aqui reuno alguns projetos desenvolvidos no decorrer da minha carreira, assim co
 - **Análise de dados**: R, Python, Stata, SQL, Excel.
 - **Certificações**: Séries Temporais e Modelos de Previsão (Udemy), Python para Análise de Dados (FEA.Dev)
 
-### Experiência 
+### Principais experiências
 - Assistente de pesquisa Laboratório de Setor Público (LabPub-USP), 2022
     - Laboratório de Setor Público (LabPub – USP)
     - Desenvolvimento de modelos econométricos para avaliar mudanças das alíquotas de IPTU em São Paulo usando R
