@@ -26,13 +26,15 @@ Aqui reuno alguns projetos desenvolvidos no decorrer da minha carreira, assim co
     - Georreferenciamento de endereços através do API do GoogleCloud
     - Desenvolvimento de relatório do estudo para a mídia em linguagem acessível
     - Discussão com agented governamentais do PE para compreensão aprofundada da política adotada 
-- **Monitora de Álgebra Linear** (grad - USP), 2022
-- **Monitora de Micro III e IV** (pós - USP), 2021
 
 ### Formação
-- Doutorado Economia, USP, 2025 (em andamento)
-- Mestrado Economia Aplicada, UFRGS, 2020
-- Graduação Administração, UnB, 2016
+- **Doutorado Economia**, USP, 2025 (em andamento)
+    - Monitora de Álgebra Linear (grad), 2022
+    - Monitora de Micro III e IV (pós), 2021
+- **Mestrado Economia Aplicada**, UFRGS, 2020
+    - Estágio Docência Microeconomia (grad),2019
+    - Monitora Análise (pós), 2019
+- **Graduação Administração**, UnB, 2016
 
 ### Mídia
 - Participação em lives: [mulheres na política](https://www.instagram.com/tv/CWBQhzngZid/?igshid=NTdlMDg3MTY=), [liberdade econômica da mulher](https://www.instagram.com/tv/Ca8YvEnAWN3/?igshid=NTdlMDg3MTY=)
