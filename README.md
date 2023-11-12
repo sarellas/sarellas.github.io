@@ -1,43 +1,13 @@
-Aqui reuno alguns projetos desenvolvidos no decorrer da minha carreira, assim como um portfólio de ferramentas e opiniões.
+### About
 
-### Ferramentas
-- **Análise de dados**: R, Python, Stata, SQL, Excel.
-- **Certificações**: Séries Temporais e Modelos de Previsão (Udemy), Python para Análise de Dados (FEA.Dev)
+![foto](/assets/2021-03-31.jpg)
 
-### Principais experiências
-- **Assistente de pesquisa Laboratório de Setor Público** (LabPub-USP), 2022
-    - Desenvolvimento de modelos econométricos para avaliar mudanças das alíquotas de IPTU em São Paulo usando R
-    - Requisição de bases de dados pela LAI
-    - Limpeza, unificação e análise de bases de dados usando R para conclusões econômicas
-    - Aprendizado sobre incentivos fiscais e cálculos do IPTU
-- **Assistente de pesquisa freelancer** (Fundação Natura), 2022
-    - Participação em consultoria para empresa de grande porte com fins sociais
-    - Medir impacto da política de Ensino Médio Integral na criminalidade no estado de Pernambuco
-    - Desenvolvimento de base de microdados através de diversas fontes públicas e análise de dados em painel
-    - Aplicação de modelos econométricos inovadores usando R, como o método Diferenças em Diferenças em Múltiplos Estágios
-    - Georreferenciamento de endereços através do API do GoogleCloud
-    - Desenvolvimento de relatório do estudo para a mídia em linguagem acessível
-    - Discussão com agented governamentais do PE para compreensão aprofundada da política adotada 
+Doutoranda em Economia pela USP. Possui mestrado em Economia Aplicada pela UFRGS, ao final recebendo o Prêmio de Melhor Dissertação de Mestrado pelo CORECON-RS. Trabalhou como assistente de pesquisa do Laboratório de Setor Público (LabPub - USP) e para pesquisadores de outras instituições, tais como Insper e Ufrgs.
 
-### Formação
-- **Doutorado Economia**, USP, 2025 (em andamento)
-    - Monitora de Álgebra Linear (grad), 2022
-    - Monitora de Micro III e IV (pós), 2021
-- **Mestrado Economia Aplicada**, UFRGS, 2020
-    - Estágio Docência Microeconomia (grad),2019
-    - Monitora Análise (pós), 2019
-- **Graduação Administração**, UnB, 2016
+No decorrer dos trabalhos de pesquisa desenvolvidos, aprendeu o uso de técnicas econométricas e de modelagem econômica. Começou desenvolvendo o uso de ferramentas de análise de dados para coleta de dados econômicos públicos e restritos, ferramentas de visualização dos dados através de gráficos e mapas, análises estatísticas e, finalmente, modelos econométricos de fronteira.
 
-### Mídia
-- Participação em lives: [mulheres na política](https://www.instagram.com/tv/CWBQhzngZid/?igshid=NTdlMDg3MTY=), [liberdade econômica da mulher](https://www.instagram.com/tv/Ca8YvEnAWN3/?igshid=NTdlMDg3MTY=)
-- Posts no Instagram: [pobreza menstrual](https://www.instagram.com/p/CXMK4LjrPiO/?igshid=NTdlMDg3MTY=)
-- Textos para blogs: [um panorama da educação superior no Brasil](https://economiadeservicos.com/tag/qualificacao/)
+contato: natalia.sarellas@gmail.com
 
 
-### Working papers
-
-A game-theoretical model of domestic war on drugs: the case of Brazilian favelas. Em breve na revista Economia Aplicada (com Marcelo Griebeler).
-
-[Effects of school day time on homicides: The case of the full-day high school program in Pernambuco](https://vox.lacea.org/?q=abstract/effects_school_homicides) (com Leonardo Rosa e Raphael Bruce)
-
+Mais informações: [LinkedIn](https://www.linkedin.com/in/natalia-sarellas/) [CV](https://drive.google.com/file/d/1vo7-AF2dmISnHktxJcPXE4vrUjGc6oZf/view?usp=sharing) [CV (english)](https://drive.google.com/file/d/19rJas0wwVDQadxpQlqE5j4brYwTn22fX/view?usp=sharing)
 
