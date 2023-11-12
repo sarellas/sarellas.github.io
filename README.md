@@ -13,13 +13,12 @@ Aqui reuno alguns projetos desenvolvidos no decorrer da minha carreira, assim co
 - **Certificações**: Séries Temporais e Modelos de Previsão (Udemy), Python para Análise de Dados (FEA.Dev)
 
 ### Principais experiências
-- Assistente de pesquisa Laboratório de Setor Público (LabPub-USP), 2022
-    - Laboratório de Setor Público (LabPub – USP)
+- **Assistente de pesquisa Laboratório de Setor Público** (LabPub-USP), 2022
     - Desenvolvimento de modelos econométricos para avaliar mudanças das alíquotas de IPTU em São Paulo usando R
     - Requisição de bases de dados pela LAI
     - Limpeza, unificação e análise de bases de dados usando R para conclusões econômicas
     - Aprendizado sobre incentivos fiscais e cálculos do IPTU
-- Assistente de pesquisa freelancer (Fundação Natura), 2022
+- **Assistente de pesquisa freelancer** (Fundação Natura), 2022
     - Participação em consultoria para empresa de grande porte com fins sociais
     - Medir impacto da política de Ensino Médio Integral na criminalidade no estado de Pernambuco
     - Desenvolvimento de base de microdados através de diversas fontes públicas e análise de dados em painel
@@ -27,8 +26,8 @@ Aqui reuno alguns projetos desenvolvidos no decorrer da minha carreira, assim co
     - Georreferenciamento de endereços através do API do GoogleCloud
     - Desenvolvimento de relatório do estudo para a mídia em linguagem acessível
     - Discussão com agented governamentais do PE para compreensão aprofundada da política adotada 
-- Monitora de Álgebra Linear (grad - USP), 2022
-- Monitora de Micro III e IV (pós - USP), 2021
+- **Monitora de Álgebra Linear** (grad - USP), 2022
+- **Monitora de Micro III e IV** (pós - USP), 2021
 
 ### Formação
 - Doutorado Economia, USP, 2025 (em andamento)
