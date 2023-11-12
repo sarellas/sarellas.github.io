@@ -5,6 +5,10 @@ Doutoranda em Economia pela USP. Possui mestrado em Economia Aplicada pela UFRGS
 # Índice 
 * [Formação](#Formação)
 * [Ferramentas](#ferramentas)
+* [Experiência](#experiência)
+* [Projetos](#projetos)
+* [Working Papers](#working-papers)
+* [Mídia](#midia)
 
 
 ### Formação
