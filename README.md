@@ -25,8 +25,8 @@ Aqui reuno alguns projetos desenvolvidos no decorrer da minha carreira, assim co
 - Monitora de Álgebra Linear (grad - USP), 2022
 - Monitora de Micro III e IV (pós - USP), 2021
 
-### Projetos
-- Previsão de variáveis macroeconômicas usando R 
+### Posts informativos
+- [Pacotes do R para baixar dados econômicos brasileiros](docs/dadosBR.md)
 
 ### Working papers
 
