@@ -1,12 +1,5 @@
 Aqui reuno alguns projetos desenvolvidos no decorrer da minha carreira, assim como um portfólio de ferramentas e opiniões.
 
-### Índice 
-* [Ferramentas](#ferramentas)
-* [Principais Experiências](#principais-experiencias)
-* [Formação](#Formacao)
-* [Mídia](#midia)
-* [Working Papers](#working-papers)
-
 ### Ferramentas
 - **Análise de dados**: R, Python, Stata, SQL, Excel.
 - **Certificações**: Séries Temporais e Modelos de Previsão (Udemy), Python para Análise de Dados (FEA.Dev)
