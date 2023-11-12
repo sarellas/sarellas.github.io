@@ -12,8 +12,8 @@ Mais informações: [LinkedIn](https://www.linkedin.com/in/natalia-sarellas/) [C
 * [Mídia](#midia)
 
 ### Ferramentas
-- Análise de dados: R, Python, Stata, SQL, Excel.
-- Certificações: Séries Temporais e Modelos de Previsão (Udemy), Python para Análise de Dados (FEA.Dev)
+- **Análise de dados**: R, Python, Stata, SQL, Excel.
+- **Certificações**: Séries Temporais e Modelos de Previsão (Udemy), Python para Análise de Dados (FEA.Dev)
 
 
 ### Formação
