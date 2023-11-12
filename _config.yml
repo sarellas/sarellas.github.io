@@ -8,8 +8,8 @@ minima:
   social_links:
     - { platform: Linkedin,  user_url: "https://www.linkedin.com/in/natalia-sarellas/" }
 
-author: Natália Sarellas
-email: "sarellas@usp.br"
+#author: Natália Sarellas
+email: "natalia.sarellas@gmail.com"
 
 header_pages:
   - about.md
