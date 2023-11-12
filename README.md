@@ -2,6 +2,11 @@ Doutoranda em Economia pela USP. Possui mestrado em Economia Aplicada pela UFRGS
 
 [LinkedIn](https://www.linkedin.com/in/natalia-sarellas/) | [CV](https://drive.google.com/file/d/1vo7-AF2dmISnHktxJcPXE4vrUjGc6oZf/view?usp=sharing) | [CV (english)](https://drive.google.com/file/d/19rJas0wwVDQadxpQlqE5j4brYwTn22fX/view?usp=sharing)
 
+# Índice 
+* [Formação](#Formação)
+* [Ferramentas](#ferramentas)
+
+
 ### Formação
 - Doutorado Economia, USP, 2025 (em andamento)
 - Mestrado Economia Aplicada, UFRGS, 2020
