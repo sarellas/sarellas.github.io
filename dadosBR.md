@@ -13,6 +13,9 @@ Creio que muitos deles já sejam bastante conhecidos, mas como alguns foram novi
 - **cepR**: pacote R para buscar informações sobre CEPs, endereços, bairros e cidades.
 - **Microdatasus**: trabalho incrível do Rafael Saldanha para download de dados do DataSUS e pré-processamento no R, inclui microdados de nascimento e mortes por municípios.
 - **Geobr**: permite acesso à conjuntos de dados espaciais oficiais do Brasil, extremamente útil para o desenvolvimento de mapas.
-- **PNADcIBGE**: para baixar dados da Pnad. 
+- **PNADcIBGE**: para baixar dados da Pnad.
+- **censobr**: acesso aos dados do censo que permite que você escolha o tipo de dado que quer baixar direto no nome da função (ex. read_population() ) 
 
-Provavelmente esqueci ou não conheço muitos outros, então fiquem à vontade para contribuir nos comentários com os pacotes que vocês conhecem. Todos os pacotes comentados acima contam com página no GitHub, na qual é possível consultar a melhor forma de uso.
+Provavelmente esqueci ou não conheço muitos outros, mas conforme forem surgindo novos vou atualizando. Todos os pacotes comentados acima contam com página no GitHub, na qual é possível consultar a melhor forma de uso.
+
+Esse post foi inicialmente criado para o LinkedIn, caso queira conheça minhas publicações por lá.
