@@ -6,13 +6,13 @@ Felizmente, descobri ao longo de 4 anos de doutorado, pacotes disponíveis no R 
 
 Creio que muitos deles já sejam bastante conhecidos, mas como alguns foram novidade para mim e outros estavam por aí perdidos em projetos nos quais já trabalhei, achei interessante listar aqui todos os que me lembro, já que podem ser também novidade para outras pessoas.
 - **BETS**: o nome já diz tudo “Brazilian Economic Time Series”. Para encontrar os códigos das séries que você quer utilizar, consulte no SGS do Banco Central.
-- **Rbcb**: permite acesso aos dados do SGS do BCB, é muito prático e também funciona com os códigos do SGS. Muito rica em dados macroeconômicos.
-- **Ipeadatar**: permite acesso aos dados da plataforma IpeaData.
-- **Sidrar**: permite o download das bases disponíveis no portal SIDRA do IBGE, como dados do censo e da Pnad (não achei a usabilidade tão boa quanto de outros nesta lista)
-- **Siconfir**: pacote para acessar dados de impostos dos estados e municípios brasileiros.
+- **rbcb**: permite acesso aos dados do SGS do BCB, é muito prático e também funciona com os códigos do SGS. Muito rica em dados macroeconômicos.
+- **ipeadatar**: permite acesso aos dados da plataforma IpeaData.
+- **sidrar**: permite o download das bases disponíveis no portal SIDRA do IBGE, como dados do censo e da Pnad (não achei a usabilidade tão boa quanto de outros nesta lista)
+- **siconfir**: pacote para acessar dados de impostos dos estados e municípios brasileiros.
 - **cepR**: pacote R para buscar informações sobre CEPs, endereços, bairros e cidades.
-- **Microdatasus**: trabalho incrível do Rafael Saldanha para download de dados do DataSUS e pré-processamento no R, inclui microdados de nascimento e mortes por municípios.
-- **Geobr**: permite acesso à conjuntos de dados espaciais oficiais do Brasil, extremamente útil para o desenvolvimento de mapas.
+- **microdatasus**: trabalho incrível do Rafael Saldanha para download de dados do DataSUS e pré-processamento no R, inclui microdados de nascimento e mortes por municípios.
+- **geobr**: permite acesso à conjuntos de dados espaciais oficiais do Brasil, extremamente útil para o desenvolvimento de mapas.
 - **PNADcIBGE**: para baixar dados da Pnad.
 - **censobr**: acesso aos dados do censo que permite que você escolha o tipo de dado que quer baixar direto no nome da função (ex. read_population() ) 
 
