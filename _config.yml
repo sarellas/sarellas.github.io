@@ -38,7 +38,7 @@ email: "natalia.sarellas@gmail.com"
 
 header_pages:
  # - about.md
-  - [portfolio.md](https://sarellas.github.io/portfolio.html)
-  - [posts.md](https://sarellas.github.io/posts.html)
+  - portfolio.md
+  - posts.md
 
 show_excerpts: true
