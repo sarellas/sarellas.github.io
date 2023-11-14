@@ -1,4 +1,7 @@
-# Pacotes de dados brasileiros no R
+---
+title: " Pacotes de dados brasileiros no R"
+---
+
 
 Na hora de encontrar os dados necessários para uma pesquisa, o trabalho pode ser muito árduo, envolvendo abrir sites do governo e investigar os seus confins para encontrar o que se precisa. Às vezes, você se depara com tabelas desorganizadas ou com informações mais resumidas do que gostaria.
 
