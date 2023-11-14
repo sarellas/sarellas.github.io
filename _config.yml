@@ -6,9 +6,8 @@ show_downloads: true
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Site pessoal e portfolio de Natália Sarellas, doutoranda em Economia pela Universidade de São Paulo.
-  Aqui você encontra conteúdos sobre análise de dados, micro e macroeconomia, entre outros. 
-
+  PhD Candidate in Economics, University of São Paulo
+  
 theme: minima
 
 #plugins:
