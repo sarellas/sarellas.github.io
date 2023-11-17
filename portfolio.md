@@ -29,7 +29,7 @@ Aqui reuno alguns projetos desenvolvidos no decorrer da minha carreira, assim co
     - Monitora de Álgebra Linear (grad), 2022
     - Monitora de Micro III e IV (pós), 2021
 - **Mestrado Economia Aplicada**, UFRGS, 2020
-    - Estágio Docência Microeconomia (grad),2019
+    - Estágio Docência Microeconomia (grad), 2019
     - Monitora Análise (pós), 2019
 - **Graduação Administração**, UnB, 2016
 
