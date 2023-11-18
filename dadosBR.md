@@ -17,7 +17,8 @@ Creio que muitos deles já sejam bastante conhecidos, mas como alguns foram novi
 - **microdatasus**: trabalho incrível do Rafael Saldanha para download de dados do DataSUS e pré-processamento no R, inclui microdados de nascimento e mortes por municípios.
 - **geobr**: permite acesso à conjuntos de dados espaciais oficiais do Brasil, extremamente útil para o desenvolvimento de mapas.
 - **PNADcIBGE**: para baixar dados da Pnad.
-- **censobr**: acesso aos dados do censo que permite que você escolha o tipo de dado que quer baixar direto no nome da função (ex. read_population() ) 
+- **censobr**: acesso aos dados do censo que permite que você escolha o tipo de dado que quer baixar direto no nome da função (ex. read_population() )
+- **odbr**: dados de origem-destino de São Paulo (pacote recente, mas está expandindo a quantidade de dados e cidades)
 
 Provavelmente esqueci ou não conheço muitos outros, mas conforme forem surgindo novos vou atualizando. Todos os pacotes comentados acima contam com página no GitHub, na qual é possível consultar a melhor forma de uso.
 
