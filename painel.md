@@ -10,7 +10,7 @@ Dados em painel são muito usados para avaliação de políticas públicas e est
 
 ![print](/assets/print-st-cs.png)
 
-Note que, no painel, o indivíduo se repete exatamente a quantidade de períodos que temos na amostra e temos resultados de todas as variáveis para cada indiv.-período (caso não tivéssemos, seria um painel desbalanceado).
+Note que, no painel (imagem abaixo), o indivíduo se repete exatamente a quantidade de períodos que temos na amostra e temos resultados de todas as variáveis para cada indiv.-período (caso não tivéssemos, seria um painel desbalanceado).
 
 As primeiras colunas até F já seriam o suficiente caso quiséssemos utilizar um modelo como o pooled OLS, no entanto, quando incluímos dummies para efeitos fixos de indivíduos e período, isso nos ajuda a “filtrar” características específicas dessas variáveis e ter uma análise mais precisa, usando o modelo de Efeitos Fixos.
 
