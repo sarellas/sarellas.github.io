@@ -1,4 +1,6 @@
-## Como organizar uma base de dados em painel?
+---
+title: "Como organizar uma base de dados em painel?"
+---
 
 Estava recentemente fazendo um trabalho freelancer em pesquisa que envolvia, antes de tudo, transformar a base de dados exportada no formato em painel, durante este trabalho me dei conta como, uma vez que colocamos a mão na massa, as coisas fazem muito mais sentido e achei que poderia fazer um esforço em traduzir esse formato de base de dados por aqui.
 
