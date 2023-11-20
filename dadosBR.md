@@ -22,4 +22,4 @@ Creio que muitos deles já sejam bastante conhecidos, mas como alguns foram novi
 
 Provavelmente esqueci ou não conheço muitos outros, mas conforme forem surgindo novos vou atualizando. Todos os pacotes comentados acima contam com página no GitHub, na qual é possível consultar a melhor forma de uso.
 
-Esse post foi inicialmente criado para o LinkedIn, caso queira conheça minhas publicações por lá.
+Esse post foi inicialmente criado para o [LinkedIn](https://www.linkedin.com/in/natalia-sarellas/), caso queira confira minhas publicações por lá.
