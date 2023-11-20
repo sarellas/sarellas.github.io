@@ -17,3 +17,5 @@ As primeiras colunas até F já seriam o suficiente caso quiséssemos utilizar u
 ![print](/assets/print-painel.png)
 
 Esse post está longe de buscar se aproximar de uma aula, trata-se apenas de uma aluna compartilhando uma forma de visualização que a ajudou a compreender o assunto. Por isso não entrei em detalhes técnicos de econometria, nem nada assim. Fiquem à vontade para desenvolver a discussão e incrementar pontos que possam ter faltado.
+
+Esse post foi inicialmente criado para o [LinkedIn](https://www.linkedin.com/in/natalia-sarellas/), caso queira confira minhas publicações por lá.
