@@ -2,6 +2,9 @@
 title: "Como organizar uma base de dados em painel?"
 ---
 
+*Uma apresentação visual para melhor entendimento desse formato de base de dados*
+
+
 Estava recentemente fazendo um trabalho freelancer em pesquisa que envolvia, antes de tudo, transformar a base de dados exportada no formato em painel, durante este trabalho me dei conta como, uma vez que colocamos a mão na massa, as coisas fazem muito mais sentido e achei que poderia fazer um esforço em traduzir esse formato de base de dados por aqui.
 
 Para aqueles da economia, seja graduação ou pós, é muito comum nos depararmos nas disciplinas de econometria com as especificações do modelo, ou seja, aquela expressão y = beta_0 + beta_1X + erro. Aprendemos as derivações dos modelos, minimizando erros quadrados, as propriedades necessárias para o resultado ser o mais próximo possível da realidade, mas comumente não temos muita compreensão de como o trabalho é feito na prática. Por isso, resolvi trazer um esquema visual de dados em painel, para tentar deixar o mais intuitivo possível como a base é construída.
