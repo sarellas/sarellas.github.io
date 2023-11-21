@@ -22,7 +22,7 @@ Aqui reuno alguns projetos desenvolvidos no decorrer da minha carreira, assim co
     - Aplicação de modelos econométricos inovadores usando R, como o método Diferenças em Diferenças em Múltiplos Estágios
     - Georreferenciamento de endereços através do API do GoogleCloud
     - Desenvolvimento de relatório do estudo para a mídia em linguagem acessível
-    - Discussão com agented governamentais do PE para compreensão aprofundada da política adotada 
+    - Discussão com agentes governamentais do PE para compreensão aprofundada da política adotada 
 
 ### Formação
 - **Doutorado Economia**, USP, 2025 (em andamento)
