@@ -6,8 +6,9 @@ title: "Portfólio"
 Aqui reuno alguns projetos desenvolvidos no decorrer da minha carreira, assim como um portfólio de ferramentas e opiniões.
 
 ### Ferramentas
-- **Análise de dados**: R, Python, Stata, SQL, Excel.
-- **Certificações**: Séries Temporais e Modelos de Previsão (Udemy), Python para Análise de Dados (FEA.Dev)
+- **Análise de dados**: R, Python, Stata, SQL, Excel
+- **Certificações**: EF SET test (C2 Proficiency)
+- **Cursos extra**: Previsão Macroeconométrica Usando R (Análise Macro), Séries Temporais e Modelos de Previsão (Udemy), Python para Análise de Dados (FEA.Dev)
 
 ### Principais experiências
 - **Assistente de pesquisa Laboratório de Setor Público** (LabPub-USP), 2022
@@ -40,6 +41,8 @@ Aqui reuno alguns projetos desenvolvidos no decorrer da minha carreira, assim co
 
 
 ### Working papers
+
+Lobbying Sectors: a network model of interest groups interaction. Tese de doutorado em andamento (com Marcos Ross).
 
 A game-theoretical model of domestic war on drugs: the case of Brazilian favelas. Em breve na revista Economia Aplicada (com Marcelo Griebeler).
 
