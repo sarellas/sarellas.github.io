@@ -2,7 +2,7 @@
 title: Dados em painel para modelo diff-in-diff
 ---
 
-* Uma breve introdução ao modelo de diferenças em diferenças *
+*Uma breve introdução ao modelo de diferenças em diferenças*
 
 Seguindo o post recentemente publicado com uma análise visual de dados em painel, achei que seria interessante fazer o mesmo para a aplicação de modelos específicos que exigem o uso de bases de dados formatadas em painel. 
 
