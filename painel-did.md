@@ -2,6 +2,8 @@
 title: Dados em painel para modelo diff-in-diff
 ---
 
+* Uma breve introdução ao modelo de diferenças em diferenças *
+
 Seguindo o post recentemente publicado com uma análise visual de dados em painel, achei que seria interessante fazer o mesmo para a aplicação de modelos específicos que exigem o uso de bases de dados formatadas em painel. 
 
 Vamos começar com o modelo diff-in-diff, ou diferenças em diferenças. 
@@ -11,7 +13,12 @@ Este modelo é muito utilizado em avaliações de impacto de políticas pública
 Ou seja, considerando o exemplo visual abaixo, digamos que uma política seja adotada em 2018 e que ela atinja apenas indivíduos que se caracterizam por um fator intrínseco a eles, como região de moradia, cor, sexo, renda. Neste caso, vamos ter duas características que definem se o indivíduo será ou não afetado pela política:
 
 1) **Período**: o período em questão figurando no painel é antes ou depois da política ter sido adotada?
-2) **Tratamento**: o indivíduo em questão é alvo da política ou não.
+
+2) **Tratamento**: o indivíduo em questão é alvo da política ou não?
+
+|  | Antes | Depois |
+| Tratamento | | |
+| Controle | | |
 
 Essas categorias figuram no painel utilizado para DID como dummies. Observe que, para todos os indivíduos, a dummy de período apresentará os mesmos valores, assumindo valor zero antes de 2018 e valor 1 após 2018, já que a política foi adotada de maneira homogênea nesta amostra a partir de 2018. Já a dummy de tratamento aponta apenas as unidades que foram tratadas ou não, dessa forma, ela assume 1 para os indivíduos tratados em todos os períodos e 0 para os indivíduos não tratados (ou de controle).
 
@@ -19,3 +26,6 @@ Ao final, a variável que utilizamos para aplicar o método é dada pela intera�
 
 
 ![print-did](/assets/painel-did.png)
+
+
+Esse post foi publicado de maneira simplificada no meu [LinkedIn](https://www.linkedin.com/in/natalia-sarellas/), caso queira, confira minhas publicações por lá.
