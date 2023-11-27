@@ -25,7 +25,7 @@ Essas categorias figuram no painel utilizado para DID como dummies. Observe que,
 Ao final, a variável que utilizamos para aplicar o método é dada pela interação entre essas duas dummies, e forma uma nova variável dummy, que assume valor 1 apenas para os indivíduos tratados após o período de tratamento.
 
 
-![print-did](/assets/painel-did.png)
+![print-did](/assets/painel-did2.png)
 
 Vale fazer algumas ressalvas. Uma política cujo tratamento se basea em características passíveis de mudança pelos indivíduos pode estar desenhada de maneira ineficiente, permitindo que os indivíduos busquem ativamente formas de se encaixar nessa classificação para serem abarcados pela política.
 
