@@ -29,6 +29,12 @@ Ao final, a variável que utilizamos para aplicar o método é dada pela intera�
 
 Vale fazer algumas ressalvas. Uma política cujo tratamento se basea em características passíveis de mudança pelos indivíduos pode estar desenhada de maneira ineficiente, permitindo que os indivíduos busquem ativamente formas de se encaixar nessa classificação para serem abarcados pela política.
 
-Além disso, note que, para o uso do diff-in-diff tradicional como apresentado aqui, consideramos que uma vez tratadas, as unidades continuam tratadas para sempre, além de que a política atinge todos os indivíduos no mesmo período. Hoje já existem variações deste modelo para políticas cuja adoção ocorre gradualmente, sendo expandida no decorrer de vários períodos. Se quiser consultar alguns desses modelos mais recentes, busque por diferenças em diferenças em múltiplos estágios do Callaway e Sant'Anna (2021).
+Além disso, note que, para o uso do diff-in-diff tradicional como apresentado aqui, consideramos que uma vez tratadas, as unidades continuam tratadas para sempre, além de que a política atinge todos os indivíduos no mesmo período. Hoje já existem variações deste modelo para políticas cuja adoção ocorre gradualmente, sendo expandida no decorrer de vários períodos. Se quiser consultar alguns desses modelos mais recentes, busque por diferenças em diferenças em múltiplos estágios do Callaway e Sant'Anna (2021). Outras referências que introduziram esses novos métodos foram os artigos de Goodman-Bacon (2021) e Sun e Abraham (2021).
 
 Esse post foi publicado de maneira simplificada no meu [LinkedIn](https://www.linkedin.com/in/natalia-sarellas/), caso queira, confira minhas publicações por lá.
+
+### Referências
+
+* Callaway, B. and P. H. Sant’Anna (2021). Difference-in-differences with multiple time periods. Journal of Econometrics 225 (2), 200–230.
+* Goodman-Bacon, A. (2021). Difference-in-differences with variation in treatment timing. Journal of Econometrics 225 (2), 254–277.
+* Sun, L. and S. Abraham (2021). Estimating dynamic treatment effects in event studies with heterogeneous treatment effects. Journal of Econometrics 225 (2), 175–199.
