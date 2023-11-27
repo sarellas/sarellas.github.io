@@ -17,8 +17,8 @@ Ou seja, considerando o exemplo visual abaixo, digamos que uma política seja ad
 2) **Tratamento**: o indivíduo em questão é alvo da política ou não?
 
 |  | Antes | Depois |
-| Tratamento | | |
-| Controle | | |
+| Controle | 0 0 | 0 1|
+| Tratamento | 1 0 | **1 1** |
 
 Essas categorias figuram no painel utilizado para DID como dummies. Observe que, para todos os indivíduos, a dummy de período apresentará os mesmos valores, assumindo valor zero antes de 2018 e valor 1 após 2018, já que a política foi adotada de maneira homogênea nesta amostra a partir de 2018. Já a dummy de tratamento aponta apenas as unidades que foram tratadas ou não, dessa forma, ela assume 1 para os indivíduos tratados em todos os períodos e 0 para os indivíduos não tratados (ou de controle).
 
