@@ -7,6 +7,7 @@ Colocarei nesta aba alguns materiais, conforme for desenvolvendo, referentes a e
 
 #### Análise de dados em R 
 - [Pacotes do R para baixar dados econômicos brasileiros](/dadosBR.md)
+- [Materiais de apoio para análise de dados com R](/materiaisR.md)
 
 #### Econometria
 - [Como organizar uma base de dados em painel?](/painel.md)
