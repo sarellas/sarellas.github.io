@@ -24,7 +24,7 @@ Aqui disponibilizo alguns materiais úteis para quem está estudando análise de
 
 ### Pacotes úteis
 - [gghighlight](https://yutannihilation.github.io/gghighlight/articles/gghighlight.html): permite salientar uma variável específica no seu gráfico
-- [ModelSummary]((https://github.com/vincentarelbundock/modelsummary)): especialmente útil para fazer tabelas de regressão e análise exploratória de dados
+- [ModelSummary](https://github.com/vincentarelbundock/modelsummary): especialmente útil para fazer tabelas de regressão e análise exploratória de dados
 - [DataExplorer](https://boxuancui.github.io/DataExplorer/articles/dataexplorer-intro.html) 
 - [Mapas para o Brasil (geobr)](https://github.com/ipeaGIT/geobr)
 - Para bases muito grandes usar pacote ffbase.
