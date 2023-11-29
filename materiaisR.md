@@ -7,7 +7,7 @@ Aqui disponibilizo alguns materiais úteis para quem está estudando análise de
 ### Livros online
 - [R for Data Science](https://r4ds.had.co.nz/): o clássico dos clássicos
 - [Hands-On Programming with R](https://rstudio-education.github.io/hopr/)
-- [Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)
+- [Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/): a forma mais prática de consultas rápidas
 - [Análise de Dados Financeiros e Econômicos com o R](https://www.msperlin.com/adfeR/index.html): livro do professor da UFRGS que introduziu vários dos meus colegas ao software
 - [Plots and Graphs](https://github.com/Z3tt/OutlierConf2021/): material super completo para fazer gráficos
 - [Introdução ao ggplot2](https://opencodecom.net/post/2021-08-22-introducao-ao-ggplot2/)
