@@ -19,7 +19,7 @@ Aqui disponibilizo alguns materiais úteis para quem está estudando análise de
 - [Análise de Dados para as Ciências Sociais](https://jonnyphillips.github.io/Ciencia_de_Dados/): curso do prof. Jonathan Phillips da FFLCH-USP (foi meu primeiro contato com R, indo do zero ao intermediário, basta seguir os tutoriais)
 - [Aulas MADE-USP](https://www.youtube.com/watch?v=g_o3a2tgmu0): aulas gravadas do grupo MADE da USP, inclui assuntos como uso do API da Google e análise da Pnad Contínua
 - [Aulas R for SC](https://preview.carpentries.org/r-socialsci/)
-- [Aulas de econometria Prof. Arthur Bragança PUC-RJ](https://arthurbraganca.com/econometria/)
+- [Aulas de econometria](https://arthurbraganca.com/econometria/) Prof. Arthur Bragança PUC-RJ
 - [Site with R Materials](https://materiais-estudo-r.netlify.app/) (repositório de materiais em português)
 
 ### Pacotes úteis
