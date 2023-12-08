@@ -1,5 +1,5 @@
 
-![foto](/assets/foto_perfil.jpg)
+![foto](/assets/foto_perfil2.jpg)
 
 Doutoranda em Economia pela USP. Possui mestrado em Economia Aplicada pela UFRGS, ao final recebendo o Prêmio de Melhor Dissertação de Mestrado pelo CORECON-RS. Trabalhou como assistente de pesquisa do Laboratório de Setor Público (LabPub - USP) e para pesquisadores de outras instituições, tais como Insper e Ufrgs.
 
