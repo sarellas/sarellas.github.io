@@ -11,13 +11,8 @@ Aqui reuno alguns projetos desenvolvidos no decorrer da minha carreira, assim co
 - **Cursos extra**: Previsão Macroeconométrica Usando R (Análise Macro), Séries Temporais e Modelos de Previsão (Udemy), Python para Análise de Dados (FEA.Dev)
 
 ### Principais experiências
-- **Analista de Projetos** (LCA Consultores), 2023
-    - Análista na área de Economia do Direito com foco em Tributação
-- **Assistente de pesquisa Laboratório de Setor Público** (LabPub-USP), 2022
-    - Desenvolvimento de modelos econométricos para avaliar mudanças das alíquotas de IPTU em São Paulo usando R
-    - Requisição de bases de dados pela LAI
-    - Limpeza, unificação e análise de bases de dados usando R para conclusões econômicas
-    - Aprendizado sobre incentivos fiscais e cálculos do IPTU
+- **Analista de Projetos** (LCA Consultores), Atualmente
+    - Análista de projetos na área de Economia do Direito com ênfase em Tributação
 - **Assistente de pesquisa freelancer** (Fundação Natura), 2022
     - Participação em consultoria para empresa de grande porte com fins sociais
     - Medir impacto da política de Ensino Médio Integral na criminalidade no estado de Pernambuco
@@ -30,6 +25,7 @@ Aqui reuno alguns projetos desenvolvidos no decorrer da minha carreira, assim co
 ### Formação
 - **Doutorado Economia**, USP, 2025 (em andamento)
     - Monitora de Álgebra Linear (grad), 2022
+    - Assistente de pesquisa Laboratório de Setor Público (LabPub), 2022
     - Monitora de Micro III e IV (pós), 2021
 - **Mestrado Economia Aplicada**, UFRGS, 2020
     - Estágio Docência Microeconomia (grad), 2019
