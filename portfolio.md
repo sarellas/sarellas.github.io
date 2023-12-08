@@ -11,7 +11,7 @@ Aqui reuno alguns projetos desenvolvidos no decorrer da minha carreira, assim co
 - **Cursos extra**: Previsão Macroeconométrica Usando R (Análise Macro), Séries Temporais e Modelos de Previsão (Udemy), Python para Análise de Dados (FEA.Dev)
 
 ### Principais experiências
-- **Analista de Projetos na LCA Consultores**, 2023
+- **Analista de Projetos** (LCA Consultores), 2023
     - Análista na área de Economia do Direito com foco em Tributação
 - **Assistente de pesquisa Laboratório de Setor Público** (LabPub-USP), 2022
     - Desenvolvimento de modelos econométricos para avaliar mudanças das alíquotas de IPTU em São Paulo usando R
