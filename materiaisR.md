@@ -9,6 +9,7 @@ Aqui disponibilizo alguns materiais úteis para quem está estudando análise de
 - [Hands-On Programming with R](https://rstudio-education.github.io/hopr/)
 - [Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/): a forma mais prática de consultas rápidas
 - [Análise de Dados Financeiros e Econômicos com o R](https://www.msperlin.com/adfeR/index.html): livro do professor da UFRGS que introduziu vários dos meus colegas ao software
+- [Introduction to Econometrics with R](https://www.econometrics-with-r.org/): cobre toda a parte de econometria I com aplicação em R
 - [Plots and Graphs](https://github.com/Z3tt/OutlierConf2021/): material super completo para fazer gráficos
 - [Guia Curto de Mapas em R](https://alanleal-econ.com/index.php/guia-curto-de-mapas-no-r/) do meu amigo e colega de doutorado Alan Leal
 - [Introdução ao ggplot2](https://opencodecom.net/post/2021-08-22-introducao-ao-ggplot2/)
