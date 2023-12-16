@@ -5,6 +5,8 @@ title: Materiais de apoio para análise de dados com R
 Aqui disponibilizo alguns materiais úteis para quem está estudando análise de dados e utiliza a ferramenta R e RStudio. Muitos desses me foram muito úteis, seja para aprender técnicas que não dominava, seja para consultas pontuais.
 
 ### Livros online
+
+#### Introdutórios
 - [R for Data Science](https://r4ds.had.co.nz/): o clássico dos clássicos
 - [Hands-On Programming with R](https://rstudio-education.github.io/hopr/)
 - [Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/): a forma mais prática de consultas rápidas
@@ -14,8 +16,13 @@ Aqui disponibilizo alguns materiais úteis para quem está estudando análise de
 - [Guia Curto de Mapas em R](https://alanleal-econ.com/index.php/guia-curto-de-mapas-no-r/) do meu amigo e colega de doutorado Alan Leal
 - [Introdução ao ggplot2](https://opencodecom.net/post/2021-08-22-introducao-ao-ggplot2/)
 - [RMarkdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/kable.html)
-- [Modern Statistics with R](https://www.modernstatisticswithr.com/) (inclui Machine Learning)
+
+#### Para quem já mexe em R
+- [Translating Stata to R](https://stata2r.github.io/): especialmente útil para quem quer migrar do Stata para o R, pensado para economistas e com foco em avaliação de impacto
+- [Data cleaning & wrangling: (2) data.table](https://raw.githack.com/uo-ec607/lectures/master/05-datatable/05-datatable.html#1): aula sobre as vantagens do uso do data.table em relação ao tidyverse
+- [Data Wrangling Faster and Bigger with data.table](https://rpubs.com/NickCHK/data_wrangling_data_table) (e em [Vídeo](https://www.youtube.com/watch?v=EdPKcy1WKD0))
 - [Amostragem Usando R](https://amostragemcomr.github.io/livro/)
+- [Modern Statistics with R](https://www.modernstatisticswithr.com/) (inclui Machine Learning)
 
 ### Aulas
 - [Análise de Dados para as Ciências Sociais](https://jonnyphillips.github.io/Ciencia_de_Dados/): curso do prof. Jonathan Phillips da FFLCH-USP (foi meu primeiro contato com R, indo do zero ao intermediário, basta seguir os tutoriais)
