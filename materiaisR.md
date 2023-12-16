@@ -6,7 +6,7 @@ Aqui disponibilizo alguns materiais úteis para quem está estudando análise de
 
 ### Livros online
 
-- Introdutórios
+- **Introdutórios**
   - [R for Data Science](https://r4ds.had.co.nz/): o clássico dos clássicos
   - [Hands-On Programming with R](https://rstudio-education.github.io/hopr/)
   - [Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/): a forma mais prática de consultas rápidas
@@ -15,13 +15,13 @@ Aqui disponibilizo alguns materiais úteis para quem está estudando análise de
   - [Introduction to Econometrics with R](https://www.econometrics-with-r.org/): cobre toda a parte de econometria I com aplicação em R
   - [RMarkdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/kable.html)
 
-- Visualização de dados
+- **Visualização de dados**
   - [Plots and Graphs](https://github.com/Z3tt/OutlierConf2021/): material super completo para fazer gráficos
   - [Guia Curto de Mapas em R](https://alanleal-econ.com/index.php/guia-curto-de-mapas-no-r/) do meu amigo e colega de doutorado Alan Leal
   - [Introdução ao ggplot2](https://opencodecom.net/post/2021-08-22-introducao-ao-ggplot2/)
   - [Data Visualization: A practical introduction](https://socviz.co/)
 
-- Para quem já mexe em R
+- **Para quem já mexe em R**
   - [Translating Stata to R](https://stata2r.github.io/): especialmente útil para quem quer migrar do Stata para o R, pensado para economistas e com foco em avaliação de impacto
   - [Data cleaning & wrangling: (2) data.table](https://raw.githack.com/uo-ec607/lectures/master/05-datatable/05-datatable.html#1): aula sobre as vantagens do uso do data.table em relação ao tidyverse
   - [Data Wrangling Faster and Bigger with data.table](https://rpubs.com/NickCHK/data_wrangling_data_table) (e em [Vídeo](https://www.youtube.com/watch?v=EdPKcy1WKD0))
