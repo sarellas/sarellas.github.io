@@ -9,6 +9,9 @@ Reuno aqui alguns materiais úteis no estudo de métodos de inferência causal, 
 - [Mostly Harmless Econometrics](https://www.mostlyharmlesseconometrics.com/)
 - [Causal Inference for The Brave and True](https://matheusfacure.github.io/python-causality-handbook/landing-page.html)
 
+### Cursos
+- [Applied Methods (Prof Paul Goldsmith-Pinkham, Yale)](https://github.com/paulgp/applied-methods-phd#lectures-full-syllabus): curso completo em inglês com slides e materiais
+
 ### Vídeos
 - Playlist [Mastering Econometrics with Joshua Angrist](https://www.youtube.com/watch?v=WwW8y5dZs80&list=PL-uRhZ_p-BM5ovNRg-G6hDib27OCvcyW8) no Youtube
 
