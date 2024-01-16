@@ -30,7 +30,7 @@ Aqui reuno alguns projetos desenvolvidos no decorrer da minha carreira, assim co
 - **Mestrado Economia Aplicada**, UFRGS, 2020
     - Prêmio de Melhor Dissertação de Mestrado pelo CORECON-RS, 2021
     - Estágio Docência Microeconomia (grad), 2019
-    - Monitora Análise (pós), 2019
+    - Monitora de Análise na Reta (pós), 2019
 - **Graduação Administração**, UnB, 2016
 
 ### Mídia
