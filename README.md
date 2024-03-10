@@ -1,5 +1,5 @@
 
-![foto](/assets/foto_perfil.jpg)
+![foto](/assets/IMG-20230627-WA0011.png)
 
 Doutoranda em Economia pela USP e Analista de Projetos em Economia do Direito na LCA. 
 
