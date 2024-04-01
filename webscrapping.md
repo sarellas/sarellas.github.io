@@ -18,4 +18,8 @@ library("rvest") # nosso pacote de scrape
 
 1. **Selector Gadget**
 
-Para você, que como eu, nunca mexeu em html, essa ferramenta vai pegar na sua mão e te levar aonde você precisa ir sem solavancos. Trata-se de uma espécie de aplicativo que você salova na sua barra de favoritos do chrome ou seu browser de escolha e te permite identificar exatamente o código que você precisará jogar no R para identificar o elemento da página que você deseja que seu programa busque.
+Para você, que como eu, nunca mexeu em html, essa ferramenta vai pegar na sua mão e te levar aonde você precisa ir sem solavancos. o [SelectorGadget](https://rvest.tidyverse.org/articles/selectorgadget.html) trata-se de uma espécie de aplicativo que você salva na sua barra de favoritos do chrome ou seu browser de escolha e te permite identificar exatamente o código que você precisará jogar no R para identificar o elemento da página que você deseja que seu programa busque. 
+
+Após clicar no SelectorGadget você vai ver que uma caixinha laranja aparecerá ao redor de cada elemento da página da web em que você passar o mouse e no canto inferior esquerdo da tela surgirá uma barra. Com este programa ativado, você clicará o mouse sobre a caixinha laranja na qual está o elemento que você quer selecionar. Neste momento o elemento se tornará amarelo e, provavelmente outros elementos da página também. Isso significa que o programa entende que você tem interesse em todos esses elementos destacados. Caso você não tenha, basta clicar em um dos elementos que não te interessam e ele se fornará vermelho, assim como apagará o destaque de outros parecidos com ele. Quando você tiver conseguido destacar apenas os elementos que realmente quer extrair, você vai clicar no código que aparecer na barra do canto inferior e, com isso, copiar esse código. 
+
+Esta é a chave que usaremos no nosso código do R para que nosso programa busque exatamente o que queremos na página da web. 
