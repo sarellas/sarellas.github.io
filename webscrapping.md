@@ -25,7 +25,7 @@ Após clicar no SelectorGadget você vai ver que uma caixinha laranja aparecerá
 
 Esta é a chave que usaremos no nosso código do R para que nosso programa busque exatamente o que queremos na página da web. Agora, vamos ao R.
 
-## 2. Primeiros passos no rvest
+## 2. Primeiros passos no *rvest*
 
 A maneira como eu contruí meu código para buscar elementos semelhantes em várias páginas da web foi pensando em um esquema "de dentro para fora". O que isso significa: primeiramente fiz testes buscando um único elemento em uma única página, depois que ele funcionou, busquei na página anterior a ele, que é como um índice e, por fim, criei o for loop para repetir essa atividade em todas as páginas linkadas nessa "página índice". Então vamos começar do começo:
 
@@ -90,52 +90,81 @@ repositorio_posts %>%
     html_attr("href")      # função que busca atributo na página, no caso, queremos o atributo "href" que significa hyperlink reference        
 ```
 
-Note que o resultado desse código nos retorna apenas a parte do hyper link que varia ao final, desconsiderando a parte que se repete em cada uma deles, que é "sarellas.github.io".
+Note que o resultado desse código nos retorna apenas a parte do hyper link que varia ao final, desconsiderando a parte que se repete em cada uma deles, que é *sarellas.github.io*.
 
 ![print_result](/assets/post_webscrapping2.png)
 
-## 4. Criando uma função para automatizar o processo
+## 4. Trabalhando com URLs
+
+O fato de termos a mesma estrutura em todas as páginas das quais queremos obter os dados permite que nossa função seja composta de elementos que vão se repetir em cada link aberto, assim, a única variável que vai se alterar na nossa função é o link ou url de acesso já que, uma vez abertos, queremos a mesma informação de todos eles. 
+
+Para deixar claro no nosso código a parte que queremos manter fixa, utilizaremos a função **str_c()**, onde o primeiro elemento é a parte do nosso url que queremos manter fixa e vamos iterar a segunda parte, utilizando o código que escrevemos na seção anterior. 
+
+str_c("sarellas.github.io", .)
+
+o "." aqui indica que queremos inputar o resultado do nosso pipe line após a primeira parte da função, a parte fixa do url.
+
+```
+posts_url <- 
+  repositorio_posts %>% 
+    html_nodes(".post-content a") %>%   ### código em html referente (apenas) aos posts linkados na página 
+    html_attr("href") %>%
+    str_c("https://sarellas.github.io",.)
+
+posts_url
+
+```
+
+## 5. Criando uma função para automatizar o processo
 
 Bom, agora que entendemos como ler e buscar informações de uma página da web, ou melhor, se duas páginas interligadas, queremos criar um programa que clique em cada link da página "Posts" e busque dentro de cada página à qual é direcionado as duas informações de interesse: o título e o primeiro parágrafo do post. Para tanto, vamos precisar criar uma função. Nesta etapa, eu me baseei consideravelmente [nesse](https://www.youtube.com/watch?v=6KWlPhPMluE) e [nesse](https://www.youtube.com/watch?v=x3UMny1fQhc&list=PLNUVZZ6hfXX1tyUykCWShOKZdIB0TIhtM&index=43) vídeos do YouTube que achei incrivelmente didático, fica a indicação do canal e da playlist, que tem conteúdos muito bons.
 
-O fato de termos a mesma estrutura em todas as páginas das quais queremos obter os dados permite que nossa função seja composta de elementos que vão se repetir em cada link aberto, assim, a única variável que vai se alterar na nossa função é o link ou url de acesso já que, uma vez abertos, queremos a mesma informação de todos eles.
+
+Primeiramente, vamos criar a função chamada **scrape_posts()** que automatiza a busca pelas informações de interesse na página final. Note que apenas incluímos dentro da função as partes de código criadas até aqui. 
+
+
 
 ```
 
 scrape_posts <- function(url){
+  repositorio_posts <- read_html(url)
   
-  company_page <- read_html(url)
+  titulo <- repositorio_posts %>% 
+    html_node(".post-title") %>%   ### colar entre aspas o código fornecido pelo SelectorGadget
+    html_text2() %>%               ### transforma em texto o elemento
+    str_remove("\n")               ### remove do texto o elemento \n que pode aparecer
   
-  name <- company_page %>% 
-    html_node("tr:nth-child(1) .half") %>% 
-    html_text2() %>%
+  primeiro_paragrafo <- repositorio_posts %>% 
+    html_node("p:nth-child(1)") %>%   ### colar entre aspas o código fornecido pelo SelectorGadget
+    html_text2() %>%               
     str_remove("\n")
   
-  trade_name <- company_page %>% 
-    html_node("tr:nth-child(1) td:nth-child(2)") %>% 
-    html_text2() %>%
-    str_remove("\n")
-  
-
-  corteva <-
-    tibble(
-      name = name,
-      trade_name = trade_name,
-      naics1 = naics1,
-      naics2=naics2,
-      sales = sales,
-      url = url
-    )
+  df <- tibble(
+    titulo = titulo,
+    primeiro_paragrafo = primeiro_paragrafo,
+    url = url
+  )
 }
 
 ### testando
-scrape_company(url = "https://www.naics.com/company-profile-page/?co=2") %>%
+scrape_posts(url = "https://sarellas.github.io/dadosBR.html") %>%
 glimpse()
 
 ```
+A função scrape_posts funciona recebendo urls de páginas e então buscando os elementos, mas não queremos ter que colar individualmente cada link para que ela possa nos retornar as informações, queremos automatizar esse processo e, para isso, temos que iterar nos urls que encontramos na seção enterior.
 
+Vamos utilizar a função **map_dfr()**, que basicamente recebe como input nossas duas funções "posts_url" e "scrape_posts",  e mapeia o resultado dessas funções em um data frame.
 
+```
+posts_sarellas <- map_dfr(posts_url, scrape_posts)
 
+```
+
+E pronto! Agora temos nossa base de dados com todos os títulos e primeiros parágrafos das páginas que tínhamos interesse!
+
+## Conclusão
+
+Este post está longe de ser o mais completo sobre o assunto, é apenas uma forma de eu tentar sintetizar o que aprendi recentemente e tive dificuldade em achar de maneira resumida e com reprodutibilidade por aí. Sugiro muito que quem tiver interesse dê uma olhada no livro e nos vídeos linkados, pois são materiais muito bons. Quaisquer dúvidas e sugestões são sempre bem-vindas no meu email ou Linked-in. 
 
 
 
