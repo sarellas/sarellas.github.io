@@ -38,7 +38,7 @@ A maneira como eu contruí meu código para buscar elementos semelhantes em vár
   post <- read_html(link)
 
 ### Criando um objeto com o título do post
-  elemento <- post %>% 
+  titulo <- post %>% 
     html_node(".post-title") %>%   ### colar entre aspas o código fornecido pelo SelectorGadget
     html_text2() %>%               ### transforma em texto o elemento
     str_remove("\n")               ### remove do texto o elemento \n que pode aparecer
@@ -50,10 +50,42 @@ Ok. Assim você conseguiu extrair o título do meu primeiro post no meu site. Pa
 Agora digamos que você não queira apenas o título, mas também o primeiro parágrafo do texto. Você vai voltar à página que quer ler, clicar novamente no SelectorGadget e selecionar o novo elemento de escolha. No nosso caso, o primeiro parágrafo de texto irá retornar o seguinte código de htmp: "p:nth-child(1)". Agora vamos colocar isso em um novo objeto do R:
 
 ```
-
+### Criando um objeto com o primeiro parágrafo 
+  primeiro_paragrafo <- post %>% 
+    html_node("p:nth-child(1)") %>%   ### colar entre aspas o código fornecido pelo SelectorGadget
+    html_text2() %>%               
+    str_remove("\n")               
 ```
 
+Prontinho! Conseguimos buscar através do R dois elementos de uma página da web, mas você deve ter notado que eles foram salvos como lista, o que não é tão conveniente para checarmos o que estamos fazendo. Então, vamos colocar todos os dados que resolvemos extrair em um tibble, para ver se deu tudo certo:
 
+```
+dados_post1 <-
+  tibble(
+    titulo = titulo,
+    primeiro_paragrafo = primeiro_paragrafo
+  )
+```
+
+Agora, temos um tibble com duas colunas, a primeira com o título do post e a segunda com o primeiro parágrafo do post. Podemos acrescentar aqui vários outros elementos que quisermos do site da web e seguir o mesmo processo, de maneira que cada um se tornará uma nova coluna do nosso tibble. Mas como isso é um tutorial simplificado, vamos para o próximo passo:
+
+3. Identificando links que uma página raíz
+
+Bom, dificilmente você vai querer usar um código para buscar elementos em apenas uma página da web, para isso você poderia simplesmente copiar e colar os elementos de interesse no Excel. Se você está apelando para o R, é porque você precisa automatizar uma tarefa repetitiva e desgastante, como clicar em vários links e buscar em cada um deles as informações do seu interesse. Então agora, vamos para a segunda camada da cebola e vamos olhar para o nosso repositório de links, que no caso do meu site, se chama a página "posts".
+
+Vamos repedir o mesmo processo que fizemos dentro do primeiro post nessa nova página: linkar a página que queremos scrapear, buscar no SelectorGadget o elemento do html que queremos e colar esse elemento no código. 
+
+```
+### Referenciando a página da web
+  link2 = paste0("https://sarellas.github.io/posts.html")    # link da página com o elemento final que você procura
+  repositorio_posts <- read_html(link2)
+
+### Criando um objeto com o elemento que queremos (nesse caso, o link para o primeiro post)
+  primeiro_post <- repositorio_posts %>% 
+    html_node("ul:nth-child(3) li:nth-child(1) a") %>%   ### colar entre aspas o código fornecido pelo SelectorGadget
+    html_text2() %>%              
+    str_remove("\n")               
+```
 
 
 
