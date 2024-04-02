@@ -8,6 +8,7 @@ Colocarei nesta aba alguns materiais, conforme for desenvolvendo, referentes a e
 #### Análise de dados em R 
 - [Pacotes do R para baixar dados econômicos brasileiros](/dadosBR.md)
 - [Materiais de apoio para análise de dados com R](/materiaisR.md)
+- [Tutorial de Web Scrapping simples em R](/webscrapping.md)
 
 #### Econometria
 - [Materiais para o estudo de inferência causal](/materiaisCausal.md)
