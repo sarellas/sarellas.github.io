@@ -17,7 +17,7 @@ library("rvest") # nosso pacote de scrape
 library(data.table) # sempre bom ter
 ```
 
-## 1. **Selector Gadget**
+## 1. Selector Gadget
 
 Para você, que como eu, nunca mexeu em html, essa ferramenta vai pegar na sua mão e te levar aonde você precisa ir sem solavancos. o [SelectorGadget](https://rvest.tidyverse.org/articles/selectorgadget.html) trata-se de uma espécie de aplicativo que você salva na sua barra de favoritos do chrome ou seu browser de escolha e te permite identificar exatamente o código que você precisará jogar no R para identificar o elemento da página que você deseja que seu programa busque. 
 
@@ -25,7 +25,7 @@ Após clicar no SelectorGadget você vai ver que uma caixinha laranja aparecerá
 
 Esta é a chave que usaremos no nosso código do R para que nosso programa busque exatamente o que queremos na página da web. Agora, vamos ao R.
 
-## 2. **Primeiros passos no rvest**
+## 2. Primeiros passos no rvest
 
 A maneira como eu contruí meu código para buscar elementos semelhantes em várias páginas da web foi pensando em um esquema "de dentro para fora". O que isso significa: primeiramente fiz testes buscando um único elemento em uma única página, depois que ele funcionou, busquei na página anterior a ele, que é como um índice e, por fim, criei o for loop para repetir essa atividade em todas as páginas linkadas nessa "página índice". Então vamos começar do começo:
 
@@ -73,7 +73,7 @@ Agora, temos um tibble com duas colunas, a primeira com o título do post e a se
 
 Podemos acrescentar aqui vários outros elementos que quisermos do site da web e seguir o mesmo processo, de maneira que cada um se tornará uma nova coluna do nosso tibble. Mas como isso é um tutorial simplificado, vamos para o próximo passo:
 
-## 3. Identificando links que uma página raíz
+## 3. Identificando links de uma página raíz
 
 Bom, dificilmente você vai querer usar um código para buscar elementos em apenas uma página da web, para isso você poderia simplesmente copiar e colar os elementos de interesse no Excel. Se você está apelando para o R, é porque você precisa automatizar uma tarefa repetitiva e desgastante, como clicar em vários links e buscar em cada um deles as informações do seu interesse. Então agora, vamos para a segunda camada da cebola e vamos olhar para o nosso repositório de links, que no caso do meu site, se chama a página "posts".
 
@@ -94,6 +94,44 @@ Vamos repedir o mesmo processo que fizemos dentro do primeiro post nessa nova p�
 ## 4. Criando uma função para automatizar o processo
 
 Bom, agora que entendemos como ler e buscar informações de uma página da web, ou melhor, se duas páginas interligadas, queremos criar um programa que clique em cada link da página "Posts" e busque dentro de cada página à qual é direcionado as duas informações de interesse: o título e o primeiro parágrafo do post. Para tanto, vamos precisar criar uma função. Nesta etapa, eu me baseei consideravelmente [nesse](https://www.youtube.com/watch?v=6KWlPhPMluE) vídeo do YouTube que achei incrivelmente didático, fica a indicação do canal e da playlist, que tem conteúdos muito bons.
+
+O fato de termos a mesma estrutura em todas as páginas das quais queremos obter os dados permite que nossa função seja composta de elementos que vão se repetir em cada link aberto, assim, a única variável que vai se alterar na nossa função é o link ou url de acesso já que, uma vez abertos, queremos a mesma informação de todos eles.
+
+```
+
+scrape_posts <- function(url){
+  
+  company_page <- read_html(url)
+  
+  name <- company_page %>% 
+    html_node("tr:nth-child(1) .half") %>% 
+    html_text2() %>%
+    str_remove("\n")
+  
+  trade_name <- company_page %>% 
+    html_node("tr:nth-child(1) td:nth-child(2)") %>% 
+    html_text2() %>%
+    str_remove("\n")
+  
+
+  corteva <-
+    tibble(
+      name = name,
+      trade_name = trade_name,
+      naics1 = naics1,
+      naics2=naics2,
+      sales = sales,
+      url = url
+    )
+}
+
+### testando
+scrape_company(url = "https://www.naics.com/company-profile-page/?co=2") %>%
+glimpse()
+
+```
+
+
 
 
 
