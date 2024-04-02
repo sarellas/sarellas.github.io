@@ -90,8 +90,9 @@ repositorio_posts %>%
     html_attr("href")      # função que busca atributo na página, no caso, queremos o atributo "href" que significa hyperlink reference        
 ```
 
+Note que o resultado desse código nos retorna apenas a parte do hyper link que varia ao final, desconsiderando a parte que se repete em cada uma deles, que é "sarellas.github.io".
 
-
+![print_result](/assets/post_webscrapping2.png)
 
 ## 4. Criando uma função para automatizar o processo
 
