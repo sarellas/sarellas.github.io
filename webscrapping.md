@@ -17,7 +17,7 @@ library("rvest") # nosso pacote de scrape
 library(data.table) # sempre bom ter
 ```
 
-1. **Selector Gadget**
+## 1. **Selector Gadget**
 
 Para você, que como eu, nunca mexeu em html, essa ferramenta vai pegar na sua mão e te levar aonde você precisa ir sem solavancos. o [SelectorGadget](https://rvest.tidyverse.org/articles/selectorgadget.html) trata-se de uma espécie de aplicativo que você salva na sua barra de favoritos do chrome ou seu browser de escolha e te permite identificar exatamente o código que você precisará jogar no R para identificar o elemento da página que você deseja que seu programa busque. 
 
@@ -25,7 +25,7 @@ Após clicar no SelectorGadget você vai ver que uma caixinha laranja aparecerá
 
 Esta é a chave que usaremos no nosso código do R para que nosso programa busque exatamente o que queremos na página da web. Agora, vamos ao R.
 
-2. **Primeiros passos no rvest**
+## 2. **Primeiros passos no rvest**
 
 A maneira como eu contruí meu código para buscar elementos semelhantes em várias páginas da web foi pensando em um esquema "de dentro para fora". O que isso significa: primeiramente fiz testes buscando um único elemento em uma única página, depois que ele funcionou, busquei na página anterior a ele, que é como um índice e, por fim, criei o for loop para repetir essa atividade em todas as páginas linkadas nessa "página índice". Então vamos começar do começo:
 
@@ -73,7 +73,7 @@ Agora, temos um tibble com duas colunas, a primeira com o título do post e a se
 
 Podemos acrescentar aqui vários outros elementos que quisermos do site da web e seguir o mesmo processo, de maneira que cada um se tornará uma nova coluna do nosso tibble. Mas como isso é um tutorial simplificado, vamos para o próximo passo:
 
-3. Identificando links que uma página raíz
+## 3. Identificando links que uma página raíz
 
 Bom, dificilmente você vai querer usar um código para buscar elementos em apenas uma página da web, para isso você poderia simplesmente copiar e colar os elementos de interesse no Excel. Se você está apelando para o R, é porque você precisa automatizar uma tarefa repetitiva e desgastante, como clicar em vários links e buscar em cada um deles as informações do seu interesse. Então agora, vamos para a segunda camada da cebola e vamos olhar para o nosso repositório de links, que no caso do meu site, se chama a página "posts".
 
