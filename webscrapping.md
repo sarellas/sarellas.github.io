@@ -91,6 +91,12 @@ Vamos repedir o mesmo processo que fizemos dentro do primeiro post nessa nova p�
     str_remove("\n")               
 ```
 
+## 4. Criando uma função para automatizar o processo
+
+Bom, agora que entendemos como ler e buscar informações de uma página da web, ou melhor, se duas páginas interligadas, queremos criar um programa que clique em cada link da página "Posts" e busque dentro de cada página à qual é direcionado as duas informações de interesse: o título e o primeiro parágrafo do post. Para tanto, vamos precisar criar uma função. Nesta etapa, eu me baseei consideravelmente [nesse](https://www.youtube.com/watch?v=6KWlPhPMluE) vídeo do YouTube que achei incrivelmente didático, fica a indicação do canal e da playlist, que tem conteúdos muito bons.
+
+
+
 
 
 
