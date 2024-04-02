@@ -77,23 +77,25 @@ Podemos acrescentar aqui vários outros elementos que quisermos do site da web e
 
 Bom, dificilmente você vai querer usar um código para buscar elementos em apenas uma página da web, para isso você poderia simplesmente copiar e colar os elementos de interesse no Excel. Se você está apelando para o R, é porque você precisa automatizar uma tarefa repetitiva e desgastante, como clicar em vários links e buscar em cada um deles as informações do seu interesse. Então agora, vamos para a segunda camada da cebola e vamos olhar para o nosso repositório de links, que no caso do meu site, se chama a página "posts".
 
-Vamos repedir o mesmo processo que fizemos dentro do primeiro post nessa nova página: linkar a página que queremos scrapear, buscar no SelectorGadget o elemento do html que queremos e colar esse elemento no código. 
+Vamos repedir o mesmo processo que fizemos dentro do primeiro post nessa nova página: linkar a página que queremos scrapear, buscar no SelectorGadget o elemento dos htmls que queremos e usar a função **html_attr()** para encontrar como os urls linkados variam.
 
 ```
 ### Referenciando a página da web
   link2 = paste0("https://sarellas.github.io/posts.html")    # link da página com o elemento final que você procura
   repositorio_posts <- read_html(link2)
 
-### Criando um objeto com o elemento que queremos (nesse caso, o link para o primeiro post)
-  primeiro_post <- repositorio_posts %>% 
-    html_node("ul:nth-child(3) li:nth-child(1) a") %>%   ### colar entre aspas o código fornecido pelo SelectorGadget
-    html_text2() %>%              
-    str_remove("\n")               
+### Identificando os urls das páginas que queremos
+repositorio_posts %>% 
+    html_nodes(".post-content a") %>%   ### código em html referente (apenas) aos posts linkados na página 
+    html_attr("href")      # função que busca atributo na página, no caso, queremos o atributo "href" que significa hyperlink reference        
 ```
+
+
+
 
 ## 4. Criando uma função para automatizar o processo
 
-Bom, agora que entendemos como ler e buscar informações de uma página da web, ou melhor, se duas páginas interligadas, queremos criar um programa que clique em cada link da página "Posts" e busque dentro de cada página à qual é direcionado as duas informações de interesse: o título e o primeiro parágrafo do post. Para tanto, vamos precisar criar uma função. Nesta etapa, eu me baseei consideravelmente [nesse](https://www.youtube.com/watch?v=6KWlPhPMluE) vídeo do YouTube que achei incrivelmente didático, fica a indicação do canal e da playlist, que tem conteúdos muito bons.
+Bom, agora que entendemos como ler e buscar informações de uma página da web, ou melhor, se duas páginas interligadas, queremos criar um programa que clique em cada link da página "Posts" e busque dentro de cada página à qual é direcionado as duas informações de interesse: o título e o primeiro parágrafo do post. Para tanto, vamos precisar criar uma função. Nesta etapa, eu me baseei consideravelmente [nesse](https://www.youtube.com/watch?v=6KWlPhPMluE) e [nesse](https://www.youtube.com/watch?v=x3UMny1fQhc&list=PLNUVZZ6hfXX1tyUykCWShOKZdIB0TIhtM&index=43) vídeos do YouTube que achei incrivelmente didático, fica a indicação do canal e da playlist, que tem conteúdos muito bons.
 
 O fato de termos a mesma estrutura em todas as páginas das quais queremos obter os dados permite que nossa função seja composta de elementos que vão se repetir em cada link aberto, assim, a única variável que vai se alterar na nossa função é o link ou url de acesso já que, uma vez abertos, queremos a mesma informação de todos eles.
 
