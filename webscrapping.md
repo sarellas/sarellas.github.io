@@ -67,7 +67,11 @@ dados_post1 <-
   )
 ```
 
-Agora, temos um tibble com duas colunas, a primeira com o título do post e a segunda com o primeiro parágrafo do post. Podemos acrescentar aqui vários outros elementos que quisermos do site da web e seguir o mesmo processo, de maneira que cada um se tornará uma nova coluna do nosso tibble. Mas como isso é um tutorial simplificado, vamos para o próximo passo:
+Agora, temos um tibble com duas colunas, a primeira com o título do post e a segunda com o primeiro parágrafo do post. 
+
+![print_tibble](/assets/post_webscrapping1.png)
+
+Podemos acrescentar aqui vários outros elementos que quisermos do site da web e seguir o mesmo processo, de maneira que cada um se tornará uma nova coluna do nosso tibble. Mas como isso é um tutorial simplificado, vamos para o próximo passo:
 
 3. Identificando links que uma página raíz
 
