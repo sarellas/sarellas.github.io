@@ -13,6 +13,9 @@ Aqui reuno alguns projetos desenvolvidos no decorrer da minha carreira, assim co
 ### Principais experiências
 - **Analista de Projetos** (LCA Consultores), Atualmente
     - Análista de projetos na área de Economia do Direito com ênfase em Tributação
+    - Trabalho em equipe para o desenvolvimendo de apresentações técnicas para clientes de diversas indústrias, analisando impactos de mudanças políticas em setores econômicos
+    - Preparação de planilhas e documentos para embasar decisões e estratégias de clientes e grupos de interesse no diálogo com o governo
+    - Preparo de seminários para capacitação em temas de Economia do Direito e Tributário
 - **Assistente de pesquisa freelancer** (Fundação Natura), 2022
     - Participação em consultoria para empresa de grande porte com fins sociais
     - Medir impacto da política de Ensino Médio Integral na criminalidade no estado de Pernambuco
@@ -39,7 +42,7 @@ Aqui reuno alguns projetos desenvolvidos no decorrer da minha carreira, assim co
 - Textos para blogs: [um panorama da educação superior no Brasil](https://economiadeservicos.com/tag/qualificacao/)
 
 
-### Working papers
+### Publicações e Working papers
 
 Lobbying Sectors: a network model of interest groups interaction. Tese de doutorado em andamento (com Marcos Ross).
 
