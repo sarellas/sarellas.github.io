@@ -44,6 +44,8 @@ Aqui reuno alguns projetos desenvolvidos no decorrer da minha carreira, assim co
 
 ### Publicações e Working papers
 
+[Análise regional dos efeitos da Reforma Tributária no comércio interestadual](https://downloads.fipe.org.br/publicacoes/bif/bif524-49-54.pdf). Boletim FIPE, maio de 2024.
+
 Lobbying Sectors: a network model of interest groups interaction. Tese de doutorado em andamento (com Marcos Ross).
 
 A game-theoretical model of domestic war on drugs: the case of Brazilian favelas. Em breve na revista Economia Aplicada (com Marcelo Griebeler).
