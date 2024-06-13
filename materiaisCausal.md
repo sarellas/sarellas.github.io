@@ -7,6 +7,7 @@ Reuno aqui alguns materiais úteis no estudo de métodos de inferência causal, 
 ### Livros 
 - [Causal Inference: The Mixtape](https://mixtape.scunning.com/)
 - [Mostly Harmless Econometrics](https://www.mostlyharmlesseconometrics.com/)
+- [Causal Inference in R](https://www.r-causal.org/)
 - [Causal Inference for The Brave and True](https://matheusfacure.github.io/python-causality-handbook/landing-page.html)
 - [Intrduction to Causal Inference: from a Machine Learning Perspective](https://www.bradyneal.com/Introduction_to_Causal_Inference-Dec17_2020-Neal.pdf)
 
