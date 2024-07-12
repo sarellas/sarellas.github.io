@@ -35,6 +35,7 @@ Aqui disponibilizo alguns materiais úteis para quem está estudando análise de
 - [Aulas de econometria](https://arthurbraganca.com/econometria/) Prof. Arthur Bragança PUC-RJ
 - [Applied Economics with R](https://www.zeileis.org/teaching/AER/) Profs. Christian Kleiber & Achim Zeileis
 - [Site with R Materials](https://materiais-estudo-r.netlify.app/) (repositório de materiais em português)
+- [Material Curso IME de Relatórios Reprodutíveis em R](https://beatrizmilz.github.io/2022-curso-de-verao-ime-usp-relatorios/programacao-do-curso.html), Prof. [Beatriz Milz](https://beamilz.com/)
 
 ### Pacotes úteis
 - [gghighlight](https://yutannihilation.github.io/gghighlight/articles/gghighlight.html): permite salientar uma variável específica no seu gráfico
