@@ -12,10 +12,12 @@ Aqui reuno alguns projetos desenvolvidos no decorrer da minha carreira, assim co
 
 ### Principais experiências
 - **Analista de Projetos** (LCA Consultores), Atualmente
-    - Análista de projetos na área de Economia do Direito com ênfase em Tributação
+    - Análista de projetos na área de Economia do Direito com ênfase em Tributação, Litígios e Comércio Exterior
+    - Elaboração de relatórios a partir de propostas aceitas pelos clientes, coordenando as atividades de analistas juniores e estagiários
     - Trabalho em equipe para o desenvolvimendo de apresentações técnicas para clientes de diversas indústrias, analisando impactos de mudanças políticas em setores econômicos
-    - Desenvolvimento de planilhas e documentos para embasar decisões e estratégias de clientes e grupos de interesse no diálogo com o governo
+    - Desenvolvimento de planilhas e relatórios para embasar decisões e estratégias de clientes e grupos de interesse no diálogo com o governo
     - Preparo de seminários para capacitação em temas de Economia do Direito e Tributário
+    - Acompanhamento da Reforma Tributária através do desenvolvimento de material para circulação interna e posts de Linkedin
 - **Assistente de pesquisa freelancer** (Fundação Natura), 2022
     - Participação em consultoria para empresa de grande porte com fins sociais
     - Medir impacto da política de Ensino Médio Integral na criminalidade no estado de Pernambuco
