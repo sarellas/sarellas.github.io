@@ -12,7 +12,7 @@ Aqui reuno alguns projetos desenvolvidos no decorrer da minha carreira, assim co
 
 ### Principais experiências
 - **Analista de Projetos** (LCA Consultores), Atualmente
-    - Análista de projetos na área de Economia do Direito com ênfase em Tributação, Litígios e Comércio Exterior
+    - Análista de projetos pleno na área de Economia do Direito com ênfase em Tributação, Litígios e Comércio Exterior
     - Elaboração de relatórios a partir de propostas aceitas pelos clientes, coordenando as atividades de analistas juniores e estagiários
     - Trabalho em equipe para o desenvolvimendo de apresentações técnicas para clientes de diversas indústrias, analisando impactos de mudanças políticas em setores econômicos
     - Desenvolvimento de planilhas e relatórios para embasar decisões e estratégias de clientes e grupos de interesse no diálogo com o governo
