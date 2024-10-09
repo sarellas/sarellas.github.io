@@ -21,4 +21,4 @@ As primeiras colunas até F já seriam o suficiente caso quiséssemos utilizar u
 
 Esse post está longe de buscar se aproximar de uma aula, trata-se apenas de uma aluna compartilhando uma forma de visualização que a ajudou a compreender o assunto. Por isso não entrei em detalhes técnicos de econometria, nem nada assim. Fiquem à vontade para desenvolver a discussão e incrementar pontos que possam ter faltado.
 
-Confira a versão completa deste material em formato de texto, [confira o pdf](https://docs.google.com/document/d/1r-Njf6lgkScfKHMmYQI2xvpI_AC3xj-_-7g10ADDE88/edit?usp=sharing). Esse post foi inicialmente criado para o [LinkedIn](https://www.linkedin.com/in/natalia-sarellas/), caso queira confira minhas publicações por lá.
+Confira a [versão completa](https://docs.google.com/document/d/1r-Njf6lgkScfKHMmYQI2xvpI_AC3xj-_-7g10ADDE88/edit?usp=sharing) deste material em formato de texto. Esse post foi inicialmente criado para o [LinkedIn](https://www.linkedin.com/in/natalia-sarellas/), caso queira confira minhas publicações por lá.
