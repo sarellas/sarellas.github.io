@@ -43,6 +43,9 @@ Aqui reuno alguns projetos desenvolvidos no decorrer da minha carreira, assim co
 - Posts no Instagram: [pobreza menstrual](https://www.instagram.com/p/CXMK4LjrPiO/?igshid=NTdlMDg3MTY=)
 - Textos para blogs: [um panorama da educação superior no Brasil](https://economiadeservicos.com/tag/qualificacao/)
 
+### Materiais didáticos 
+- Microeconomia aplicada: [base de dados em painel](https://docs.google.com/document/d/1r-Njf6lgkScfKHMmYQI2xvpI_AC3xj-_-7g10ADDE88/edit?usp=sharing)
+- Programação: [Webscraping em R](https://sarellas.github.io/webscrapping.html)
 
 ### Publicações e Working papers
 
