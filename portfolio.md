@@ -45,7 +45,7 @@ Aqui reuno alguns projetos desenvolvidos no decorrer da minha carreira, assim co
 
 ### Materiais didáticos 
 - Microeconomia aplicada: [base de dados em painel](https://docs.google.com/document/d/1r-Njf6lgkScfKHMmYQI2xvpI_AC3xj-_-7g10ADDE88/edit?usp=sharing)
-- Programação: [Webscraping em R](https://sarellas.github.io/webscrapping.html)
+- Programação: [webscraping em R](https://sarellas.github.io/webscrapping.html)
 
 ### Publicações e Working papers
 
