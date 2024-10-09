@@ -10,5 +10,5 @@ No decorrer dos trabalhos de pesquisa desenvolvidos, aprendeu o uso de técnicas
 contato: nataliasarellas@gmail.com
 
 
-Mais informações: [LinkedIn](https://www.linkedin.com/in/natalia-sarellas/) [CV](https://drive.google.com/file/d/1vo7-AF2dmISnHktxJcPXE4vrUjGc6oZf/view?usp=sharing) [CV (english)](https://drive.google.com/file/d/19rJas0wwVDQadxpQlqE5j4brYwTn22fX/view?usp=sharing)
+Mais informações: [LinkedIn](https://www.linkedin.com/in/natalia-sarellas/) [CV](https://drive.google.com/file/d/1M4VCceoHNil0558uoAAYa539N9zFf5Yp/view?usp=sharing) [CV (english)](https://drive.google.com/file/d/19rJas0wwVDQadxpQlqE5j4brYwTn22fX/view?usp=sharing)
 
