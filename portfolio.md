@@ -3,7 +3,7 @@ title: "Experiência"
 ---
 
 
-Aqui reuno alguns projetos desenvolvidos no decorrer da minha carreira, assim como um portfólio de ferramentas e opiniões.
+Aqui reuno alguns projetos desenvolvidos no decorrer da minha carreira, assim como um portfólio de ferramentas com as quais já trabalhei.
 
 ### Ferramentas
 - **Análise de dados**: R, Python, Stata, SQL, Excel
