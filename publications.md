@@ -11,7 +11,7 @@ title: "Publicações"
 - Microeconomia aplicada: [base de dados em painel](https://docs.google.com/document/d/1r-Njf6lgkScfKHMmYQI2xvpI_AC3xj-_-7g10ADDE88/edit?usp=sharing)
 - Programação: [webscraping em R](https://sarellas.github.io/webscrapping.html)
 
-### Publicações e Working papers
+### Artigos e Working papers
 
 [Análise regional dos efeitos da Reforma Tributária no comércio interestadual](https://downloads.fipe.org.br/publicacoes/bif/bif524-49-54.pdf). Boletim FIPE, maio de 2024.
 
