@@ -2,6 +2,8 @@
 title: "Publicações"
 ---
 
+Nesta seção, você encontra os artigos nos quais tive autoria, assim como materiais didáticos e posts com os quais contribuí.
+
 ### Mídia
 - Participação em lives: [mulheres na política](https://www.instagram.com/tv/CWBQhzngZid/?igshid=NTdlMDg3MTY=), [liberdade econômica da mulher](https://www.instagram.com/tv/Ca8YvEnAWN3/?igshid=NTdlMDg3MTY=)
 - Posts no Instagram: [pobreza menstrual](https://www.instagram.com/p/CXMK4LjrPiO/?igshid=NTdlMDg3MTY=)
