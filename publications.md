@@ -15,6 +15,9 @@ Nesta seção, você encontra os artigos nos quais tive autoria, assim como mate
 
 ### Artigos e Working papers
 
+[Como a Teoria dos Jogos Ajuda a Explicar a Alta Abstenção nas
+Eleições Brasileiras para Prefeitura de 2024](https://downloads.fipe.org.br/publicacoes/bif/bif531-66-69.pdf). Boletim FIPE, dezembro de 2024.
+
 Lobbying Sectors: a network model of interest groups interaction. Tese de doutorado em andamento (com Marcos Ross).
 
 [Análise regional dos efeitos da Reforma Tributária no comércio interestadual](https://downloads.fipe.org.br/publicacoes/bif/bif524-49-54.pdf). Boletim FIPE, maio de 2024.
