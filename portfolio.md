@@ -11,6 +11,8 @@ Aqui reuno alguns projetos desenvolvidos no decorrer da minha carreira, assim co
 - **Cursos extra**: Previsão Macroeconométrica Usando R (Análise Macro), Séries Temporais e Modelos de Previsão (Udemy), Python para Análise de Dados (FEA.Dev)
 
 ### Principais experiências
+- **Analista de Projetos de Inovação** (Grupo Fictor), 2025
+    - Analista de projetos na área de Inovação, Pesquisa e Desenvolvimento em Holding de empresas com foco em agronegócio, energia e serviços financeiros
 - **Analista de Projetos** (LCA Consultores), 2024
     - Análista de projetos pleno na área de Economia do Direito com ênfase em Tributação, Litígios e Comércio Exterior
     - Elaboração de relatórios a partir de propostas aceitas pelos clientes, coordenando as atividades de analistas juniores e estagiários
