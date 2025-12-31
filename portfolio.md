@@ -10,9 +10,15 @@ Aqui reuno alguns projetos desenvolvidos no decorrer da minha carreira, assim co
 - **Certificações**: EF SET test (C2 Proficiency)
 - **Cursos extra**: Previsão Macroeconométrica Usando R (Análise Macro), Séries Temporais e Modelos de Previsão (Udemy), Python para Análise de Dados (FEA.Dev)
 
-### Principais experiências
-- **Analista de Projetos de Inovação** (Grupo Fictor), 2025
-    - Analista de projetos na área de Inovação, Pesquisa e Desenvolvimento em Holding de empresas com foco em agronegócio, energia e serviços financeiros
+### Atividades atuais
+- **Pesquisadora** (FGV Clima), 2025
+    - Desenvolvimento de relatório sobre eficiência energética na indústria em parceria com o Ministério de Minas e Energia e financiadores do terceiro setor 
+    - Auxílio em atividades e workshops que reunem atores do governo, academia e sociedade civil para discussão de políticas públicas voltadas à energia
+- **Analista de Projetos de Novos Negócios** (Grupo Fictor), 2025
+    - Analista de projetos na área de Inovação, Pesquisa e Desenvolvimento e Novos Negócios em Holding de empresas com foco em agronegócio, energia e serviços financeiros
+    - Apoio às atividades de M&A, desenvolvimento de fundos de investimentos e captação de recursos para projetos de energia
+ 
+### Experiências selecionadas
 - **Analista de Projetos** (LCA Consultores), 2024
     - Análista de projetos pleno na área de Economia do Direito com ênfase em Tributação, Litígios e Comércio Exterior
     - Elaboração de relatórios a partir de propostas aceitas pelos clientes, coordenando as atividades de analistas juniores e estagiários
@@ -30,7 +36,7 @@ Aqui reuno alguns projetos desenvolvidos no decorrer da minha carreira, assim co
     - Discussão com agentes governamentais do PE para compreensão aprofundada da política adotada 
 
 ### Formação
-- **Doutorado Economia**, USP, 2025 (em andamento)
+- **Doutorado Economia**, USP, 2025 
     - Monitora de Álgebra Linear (grad), 2022
     - Assistente de pesquisa Laboratório de Setor Público (LabPub), 2022
     - Monitora de Micro III e IV (pós), 2021
