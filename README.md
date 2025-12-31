@@ -1,7 +1,7 @@
 
 ![foto](/assets/foto_perfil.jpg)
 
-Doutoranda em Economia pela USP. 
+Doutora em Economia pela USP e pesquisadora na FGV Clima. 
 
 Possui mestrado em Economia Aplicada pela UFRGS, ao final recebendo o Prêmio de Melhor Dissertação de Mestrado pelo CORECON-RS. Trabalhou como analista de projetos em consultoria econômica e assistente de pesquisa do Laboratório de Setor Público (LabPub - USP) e para pesquisadores de outras instituições, tais como Insper e Ufrgs.
 
