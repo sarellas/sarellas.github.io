@@ -22,7 +22,7 @@ Eleições Brasileiras para Prefeitura de 2024](https://downloads.fipe.org.br/pu
 
 ### Artigos e Working papers
 
-Lobbying Sectors: a network model of interest groups interaction. Tese de doutorado em andamento (com orientação de Marcos Ross).
+Lobbying Sectors: a network model of interest groups interaction. Tese de doutorado (com orientação de Marcos Ross).
 
 [A game-theoretical model of domestic war on drugs: the case of Brazilian favelas](https://drive.google.com/file/d/1uDFVyslqEU41O06rPdQVIQ6Wu8ZnLpdL/view?usp=sharing). Em breve na revista Economia Aplicada (com Marcelo Griebeler).
 
